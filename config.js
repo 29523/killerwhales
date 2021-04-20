@@ -5,10 +5,10 @@ var config = {
     markerColor: '#3FB1CE',
     theme: 'dark',
     use3dTerrain: false,
-    title: 'The Plight of the Southern Residents',
+    title: 'Part 1: The Plight of the Southern Residents',
     subtitle: "How has the Southern Resident Killer Whales' Environment Changed Since 1960?",
     byline: 'Fred DeNisco, Josh Lesko, Lily Mou, Blagee Zhuo',
-    footer: 'Sources: Please refer to References',
+    footer: 'Part 2: https://leskojosh000.github.io/ShipImpactsSRKW/',
     chapters: [
         
 		{
